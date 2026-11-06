@@ -1,0 +1,7 @@
+[2026-11-06T15:44:36Z] === AST ITERATION 1 START | repo=ansible-community/ansible.content_builder sha=80ad2070 ===
+[2026-11-06T15:44:36Z] [iter=1] PHASE START: ast repo=ansible-community/ansible.content_builder sha=80ad2070
+[2026-11-06T15:44:36Z] [iter=1] Building AST aggregate chunks
+[2026-11-06T15:45:02Z] [iter=1] AST chunks built count=1 triples=249391
+[2026-11-06T15:45:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/80ad207031f14cb2af65b15acb5830670028db2c/.complete
+[2026-11-06T15:45:02Z] [iter=1] PHASE END: ast elapsed_s=26 elapsed_min=0.4
+[2026-11-06T15:45:02Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
